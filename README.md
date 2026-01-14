@@ -67,7 +67,11 @@ This project is a hybrid health monitoring system that combines biometric data (
     ```bash
     python script.py
     ```
+## Screenshots
 
+<img width="962" height="753" alt="Ekran görüntüsü 2026-01-14 180242" src="https://github.com/user-attachments/assets/bb481c7c-4906-49d4-adec-4a8332ec3c8f" />
+
+<img width="974" height="758" alt="Ekran görüntüsü 2026-01-14 180146" src="https://github.com/user-attachments/assets/965f81b9-d641-4b5c-9531-09ec938f9fd2" />
 
 ## Disclaimer
 
