@@ -8,8 +8,8 @@
 #include "esp_http_server.h"
 
 // KULLANICI AYARLARI
-const char* ssid = "hz.Yas1r";      
-const char* password = "yasir0000"; 
+const char* ssid = "YOUR HOTSPOT NAME";      
+const char* password = "YOUR HOTSPOT PASSWORDS"; 
 
 // XIAO ESP32S3 Sense Pinleri
 #define I2C_SDA_PIN 5 
