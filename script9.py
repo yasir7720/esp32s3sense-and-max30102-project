@@ -6,12 +6,12 @@ import threading
 from inference import get_model
 
 #İP PORT VE BAUND AYARLARI
-URL = "http://10.213.126.195/stream"
-SERIAL_PORT = "COM3"
+URL = "http://YOUR İP"
+SERIAL_PORT = "YOUR COM"
 BAUD_RATE = 115200
 
 # API KEY VE MODEL ID
-ROBOFLOW_API_KEY = "sV3oiGO3bu69ttQjfyLd"
+ROBOFLOW_API_KEY = "YOUR APİ KEY"
 ROBOFLOW_MODEL_ID = "yuz-verilerinden-duygu-analizi/1"
 
 # RENK PALETİ
@@ -235,4 +235,5 @@ while running and cap.isOpened():
         time.sleep(0.01)
 
 cap.release()
+
 cv2.destroyAllWindows()
